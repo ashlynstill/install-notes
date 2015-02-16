@@ -1,11 +1,9 @@
 # Mac Dev Environment Setup
 How to set up your new shiny Macbook like the rest of the super cool AJC news apps team
 
-1. Things in code blocks...
+1. Things in code blocks are what you put in the command line in your terminal application.
 
-	...like this...
-
-Are what you put in the command line in your terminal application.
+	like this!
 
 2. If the command starts with a ``$`` that just signifies a new prompt line in the terminal. Don't copy the $, but copy everything after it
 
