@@ -1,6 +1,19 @@
 # Mac Dev Environment Setup
 How to set up your new shiny Macbook like the rest of the super cool AJC news apps team
 
+1. Things in code blocks...
+
+	...like this...
+
+Are what you put in the command line in your terminal application.
+
+2. If the command starts with a ``$`` that just signifies a new prompt line in the terminal. Don't copy the $, but copy everything after it
+
+3. If something is incorrect on here or you have an issue, let me know! astill [at] ajc [dot] com
+
+
+**Open up your terminal application and let's get started!**
+
 
 ## Xcode command-line Tools
 
