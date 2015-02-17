@@ -65,8 +65,6 @@ Your system should be ready to brew now.
 ## Create local bin directory (``~/bin``) and ``.bash_profile``
 
 	$ mkdir ~/bin
-	$ cd ~/bin
-	$ touch .bash_profile
 
 Add local bin directory to PATH in ``.bash_profile``
 	
@@ -74,12 +72,13 @@ Add local bin directory to PATH in ``.bash_profile``
 
 Paste ``export PATH=$HOME/bin/usr/local/bin:$PATH:$HOME/.rvm/bin`` at top. 
 
-Type ``:wq`` and hit enter to save and quit.
+Hit ``esc``, type ``:wq``, then hit enter to save and quit.
 
+*Useful: If you just type ``:q`` instead of ``:wq`` it quits without saving the file.*
 
 ## Install Sublime Text 3
 
-Download from [here](http://www.sublimetext.com/3) and install
+Download from [here](http://www.sublimetext.com/3) and follow install instructions
 
 Link to ``subl`` in new ``/bin`` directory
 
